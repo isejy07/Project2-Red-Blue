@@ -1,9 +1,9 @@
-# Project2: Red Vs. Blue
+# Project2: Red vs. Blue
 Assessment, Analysis, and Hardening of a Vulnerable System
 
 ## Attack / Defense / Monitoring / Mitigation
 
-The files in this repository were the product of the network depicted below.
+The files in this repository were produced by the network depicted below.
 
 ![Lab Services Diagram](Diagrams/azure_lab_services2.png)
 
