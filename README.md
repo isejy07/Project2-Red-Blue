@@ -1,12 +1,12 @@
-# Project2: Red Versus Blue
+# Project2: Red Vs. Blue
 Assessment, Analysis, and Hardening of a Vulnerable System
 
 ## Attack / Defense / Monitoring / Mitigation
 
-The files in this repository were used to configure the network depicted below.
+The files in this repository were the product of the network depicted below.
 
 ![Lab Services Diagram](Diagrams/azure_lab_services2.png)
 
 ### Feature Presentation 
 
-Access and download the main Powerpoint file for review [here](https://github.com/isejy07/Project2-Red-Blue/tree/main/Presentation/Proj2-RedVBlue.pptx)
+Access and download the main [Powerpoint](https://github.com/isejy07/Project2-Red-Blue/tree/main/Presentation/Proj2-RedVBlue.pptx) file for review.
