@@ -1,5 +1,5 @@
 # Project 2: Red v. Blue
-Assessment, Analysis, and Hardening of a Vulnerable System
+Assessment, Analysis & Hardening of a Vulnerable System
 
 ## Attack / Defense / Monitoring / Mitigation
 
